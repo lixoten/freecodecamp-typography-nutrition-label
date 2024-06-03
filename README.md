@@ -7,4 +7,4 @@ Follow this link for assignment
 ### My notes
 Nothing fancy, html, css basics, with emphasis on Typography.
 
-<img src="screenshot.png" alt="screenshot.png" style="width:80%;"/>
+<img src="screenshot.png" alt="screenshot.png" style="width:40%;"/>
